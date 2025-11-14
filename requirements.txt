@@ -1,2 +1,7 @@
-packaging
-websockets
+fastapi
+uvicorn[standard]
+numpy
+scikit-learn
+joblib
+pydantic
+python-multipart
